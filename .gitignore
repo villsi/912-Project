@@ -1,4 +1,17 @@
+# System
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
 
+# VScode
+.vscode/
+.history/
+
+# Custom
 .sync/FolderType
 .sync/ID
 .sync/IgnoreList
